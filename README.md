@@ -9,7 +9,7 @@ AI-powered personality compatibility analysis with Machine Learning!
 - 🖼️ Photo Upload Support
 
 ## 🚀 Try It!
-Visit: [https://personality-match-app.streamlit.app](https://personality-match-app.streamlit.app)
+Visit: [(https://personality-match-app-nmir7uj4uvuf9f5ntyardk.streamlit.app/))
 
 ## 🛠️ Built With
 - Streamlit
